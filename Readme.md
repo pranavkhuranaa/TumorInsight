@@ -8,11 +8,8 @@
 
 ## What is `TumorInsight`?
 
-`Project` is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut porttitor risus, in ultricies arcu. Donec justo ligula, faucibus sed gravida sit
-amet, pulvinar a leo. Ut porta volutpat sem non tempor. Mauris sit amet arcu vitae justo blandit semper. Ut faucibus vestibulum pulvinar.
-Praesent hendrerit dapibus dolor nec volutpat. Vivamus tristique rutrum convallis. Praesent dignissim sed est ut pharetra. Donec
-hendrerit ante eget lorem aliquet lacinia. Vivamus vel quam ut ante eleifend maximus a in est. Donec id nisi tincidunt, aliquam augue et,
-pretium ligula. Sed gravida in justo id iaculis. Vestibulum at quam a ligula rhoncus fermentum.
+`TumorInsight` is a Brain Tumor Detection and Classification model built using RESNET50 architecture. It aims to detect and classify the brain tumours from MRI scans. The detection is done using Image Processing algorithms and classification using Deep learning techniques.<br>
+The model is also deployed as a web application using Flask framework.
 
 Download trained model from [here](https://drive.google.com/file/d/1-rIrzzqpsSg80QG175hjEPv9ilnSHmqK/view?usp=sharing).
 
@@ -132,7 +129,7 @@ Any contributions you make are **greatly appreciated**.
 -->
 
 <p align="center">
-  <code> Shaurya Choudhary </code>
+  <code> Shaurya Choudhary | Pranav Khurana</code>
 </p>
 <!---
 - [Gmail](mailto:shaurya.src@gmail.com)
