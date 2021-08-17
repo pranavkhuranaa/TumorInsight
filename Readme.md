@@ -13,29 +13,19 @@ The model is also deployed as a web application using Flask framework.
 
 Download trained model from [here](https://drive.google.com/file/d/1-rIrzzqpsSg80QG175hjEPv9ilnSHmqK/view?usp=sharing).
 
-```python
-def main()
-    text = "Hello World!"
-    return text
-
-if __name__ == '__main__':
-    text = main()
-    print(text)
-```
-
 # Features
-
+<!-- 
 ![RepoSize](https://img.shields.io/github/repo-size/shaurya-src/Web-Automation?logo=GitHub&style=flat-square)
 ![License](https://img.shields.io/github/license/shaurya-src/Web-Automation?logo=GitLab&style=flat-square)
-![LastCommit](https://img.shields.io/github/last-commit/shaurya-src/Web-Automation?logo=Git&style=flat-square)
+![LastCommit](https://img.shields.io/github/last-commit/shaurya-src/Web-Automation?logo=Git&style=flat-square) -->
 
 <img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" align="right" width="300" height="300">
 
-- [x] Lorem ipsum dolor sit amet
-- [x] Lorem ipsum dolor sit amet
-- [x] Lorem ipsum dolor sit amet
-- [x] Lorem ipsum dolor sit amet
-- [x] Lorem ipsum dolor sit amet
+- [x] TumorInsight Web App - Technology at your fingertips!
+- [x] Image Segmentation (K-means clustering)
+- [x] Image Processing (Median filtering, morphological processing etc.)
+- [x] RESNET50 architecture for classification
+- [x] Flask framwework for integrating with frontend of web app
 - [x] *And More...*
 
 # Contents
@@ -51,11 +41,8 @@ if __name__ == '__main__':
 
 # <a name="project-info"> Project Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut porttitor risus, in ultricies arcu. Donec justo ligula, faucibus sed gravida sit
-amet, pulvinar a leo. Ut porta volutpat sem non tempor. Mauris sit amet arcu vitae justo blandit semper. Ut faucibus vestibulum pulvinar.
-Praesent hendrerit dapibus dolor nec volutpat. Vivamus tristique rutrum convallis. Praesent dignissim sed est ut pharetra. Donec
-hendrerit ante eget lorem aliquet lacinia. Vivamus vel quam ut ante eleifend maximus a in est. Donec id nisi tincidunt, aliquam augue et,
-pretium ligula. Sed gravida in justo id iaculis. Vestibulum at quam a ligula rhoncus fermentum.
+`TumorInsight` is a Brain Tumor Detection and Classification model built using RESNET50 architecture. It aims to detect and classify the brain tumours from MRI scans. The detection is done using Image Processing algorithms and classification using Deep learning techniques.<br>
+The model is also deployed as a web application using Flask framework.
 
 In addition, you can also customize the following properties according to the need.
 
